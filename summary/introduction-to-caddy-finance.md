@@ -25,7 +25,7 @@ Caddy Finance addresses these challenges by creating a universal aggregation lay
 * **🔄 Staking to Lending Hedge**: A unique hedging strategy that balances the potential of DeFi yields with the stability of RWAs .
 * **💸 $PUTT Token**: Serves as the governance token for the Caddy Finance ecosystem, allowing holders to participate in key decisions and earn protocol fees .
 
-### 🌟 Vision
+### 🌟 Conclusion
 
 Caddy Finance aims to create a universal liquidity layer for real world assets, facilitating the widespread adoption of RWA tokenization among both retail and institutional investors 🚀. By offering yield aggregation, risk mitigation, and intelligent decision-making, Caddy Finance is positioned to play a crucial role in the future of finance as regulatory frameworks evolve and diverse asset classes become tokenized 🚧.
 

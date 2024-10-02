@@ -12,9 +12,22 @@
 * [💰 Understanding Yield and Yield Aggregation ](background/understanding-yield-and-yield-aggregation.md)
 * [📈 Yield Maximisation](background/yield-maximisation.md)
 
-## ♥️ Caddy Finance
+## Challenges
 
-* [Token Distribution](caddy-finance/token-distribution.md)
-* [Economic Model](caddy-finance/economic-model.md)
-* [Roadmap](caddy-finance/roadmap.md)
-* [Team](caddy-finance/team.md)
+* [🧗‍♂️ The Challenges of RWA Tokenisation Platforms](challenges/the-challenges-of-rwa-tokenisation-platforms.md)
+
+## The Yield Dilemma
+
+* [🧛‍♂️ RWA Yields vs RWA Tradeability](the-yield-dilemma/rwa-yields-vs-rwa-tradeability.md)
+
+***
+
+* [🧁 RWA Yields vs Digital Asset Yields](rwa-yields-vs-digital-asset-yields.md)
+
+## Caddy Finance
+
+* [❓ What is Caddy Finance?](caddy-finance/what-is-caddy-finance.md)
+
+***
+
+* [🧩 Components of Caddy Finance](components-of-caddy-finance.md)
