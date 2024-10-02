@@ -29,3 +29,8 @@
 ***
 
 * [🧩 Components of Caddy Finance](components-of-caddy-finance.md)
+* [🛬 Yield Aggregation](yield-aggregation.md)
+* [🚀 Yield Maximization](yield-maximization.md)
+* [🪣 Indemnification Pool](indemnification-pool.md)
+* [🤖 AI-powered Credit Risk Assessment](ai-powered-credit-risk-assessment.md)
+* [🏌️‍♀️ Tokenomics](tokenomics.md)
