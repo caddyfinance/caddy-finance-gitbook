@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Caddy Finance Whitepaper](README.md)
-
 ## Summary
 
-* [🚀 Introduction to Caddy Finance](summary/introduction-to-caddy-finance.md)
+* [🚀 Introduction to Caddy Finance](README.md)
 
 ## Background
 
