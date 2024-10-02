@@ -34,3 +34,4 @@
 * [🪣 Indemnification Pool](indemnification-pool.md)
 * [🤖 AI-powered Credit Risk Assessment](ai-powered-credit-risk-assessment.md)
 * [🏌️‍♀️ Tokenomics](tokenomics.md)
+* [Whitepaper](https://caddy.finance/assets/whitepaper/caddy-finance-whitepaper.pdf)
