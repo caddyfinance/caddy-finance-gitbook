@@ -10,10 +10,11 @@
 
 * [What is tokenization?](background/what-is-tokenization.md)
 * [💰 Understanding Yield and Yield Aggregation ](background/understanding-yield-and-yield-aggregation.md)
+* [📈 Yield Maximisation](background/yield-maximisation.md)
 
-## Tokenomics
+## ♥️ Caddy Finance
 
-* [Token Distribution](tokenomics/token-distribution.md)
-* [Economic Model](tokenomics/economic-model.md)
-* [Roadmap](roadmap.md)
-* [Team](team.md)
+* [Token Distribution](caddy-finance/token-distribution.md)
+* [Economic Model](caddy-finance/economic-model.md)
+* [Roadmap](caddy-finance/roadmap.md)
+* [Team](caddy-finance/team.md)

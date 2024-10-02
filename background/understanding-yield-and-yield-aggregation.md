@@ -2,14 +2,14 @@
 
 ### 💸 What is Yield?
 
-💰 Yield is like the magic money-making machine of investments! It's the income your investment generates over time, usually shown as a percentage. In the financial world, yield can come from various exciting sources:
+Yield is like the magic money-making machine of investments! It's the income your investment generates over time, usually shown as a percentage. In the financial world, yield can come from various exciting sources:
 
 1. 💼 **Dividends**: Companies sharing their profits with shareholders. Cha-ching!
 2. 🏦 **Interest**: The reward for lending your money to others. Ka-ching!
 3. 🏠 **Rent**: Money rolling in from your real estate empire. Ker-ching!
 4. 📈 **Capital Gains**: Selling something for more than you bought it. Boom-ching!
 
-🚀 In the wild world of decentralized finance (DeFi), yield often comes from:
+In the wild world of decentralized finance (DeFi), yield often comes from:
 
 1. 🏦 **Lending**: Earning interest by being a crypto bank. Money printer go brrr!
 2. 🌊 **Liquidity Provision**: Getting rewarded for keeping the crypto markets flowing. Splash the cash!
@@ -17,7 +17,7 @@
 
 ### 🧙‍♂️ What is Yield Aggregation?
 
-🍲 Yield Aggregation is like being the master chef of yields! It involves:
+Yield Aggregation is like being the master chef of yields! It involves:
 
 1. 🎣 Collecting yields from everywhere like Pokemon. Gotta catch 'em all!
 2. 🥘 Throwing them all into one big, juicy pot
@@ -25,7 +25,7 @@
 
 ### 🤔 Why Does Yield Need to be Aggregated?
 
-🧩 Yield Aggregation solves some head-scratching problems in finance:
+Yield Aggregation solves some head-scratching problems in finance:
 
 1. 🧠 **Complexity**: Managing multiple yields can be like juggling flaming chainsaws.
 2. 🐌 **Inefficiency**: Small investments often lead to tiny yields. No fun!
@@ -34,7 +34,7 @@
 
 ### 🎉 Benefits of Yield Aggregation
 
-🛠️ Yield Aggregation is like a Swiss Army knife for your investments:
+&#x20;Yield Aggregation is like a Swiss Army knife for your investments:
 
 1. 😌 **Simplification**: It turns yield farming from 4D chess into tic-tac-toe.
 2. 🚀 **Efficiency**: Pool resources for better returns. Teamwork makes the dream work!
