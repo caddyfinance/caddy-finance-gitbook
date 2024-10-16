@@ -1,7 +1,5 @@
 # 🧛‍♂️ RWA Yields vs RWA Tradeability
 
-### Balancing RWA Yields and Tradeability
-
 Balancing Real World Asset (RWA) yields and tradeability presents unique challenges in the tokenization space.
 
 #### 💰 RWA Yields

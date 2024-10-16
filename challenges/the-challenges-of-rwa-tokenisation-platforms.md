@@ -1,7 +1,5 @@
 # 🧗‍♂️ The Challenges of RWA Tokenisation Platforms
 
-## Challenges in RWA Tokenization 🚧
-
 Real World Asset (RWA) tokenization faces several significant challenges:
 
 ### 1. 🔒 Locked Liquidity
