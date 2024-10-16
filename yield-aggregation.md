@@ -1,42 +1,40 @@
 # 🛬 Yield Aggregation
 
-Imagine Caddy Finance as a master chef, and yield aggregation is their secret recipe for a financial feast! 👨‍🍳✨
+Caddy Finance's yield aggregation is a key feature that combines yields from various sources into a single, maxmizied pool. Let's break down how it works:
 
-Let's break down this mouth-watering image of Caddy's yield aggregation:
+### 🌈 Diverse Yield Sources
 
-#### 🌈 The Yield Buffet
+At the top of the yield aggregation process, we see various financial instruments:
 
-At the top of our image, we see a smorgasbord of financial delicacies:
+* 🏢 REITs on Polygon: Real Estate Investment Trusts tokenized on the Polygon blockchain
+* ☀️ Solar projects on XDC: Yields from solar energy investments on the XDC network
+* 📜 T-Bills on Cosmos: Treasury Bills tokenized on the Cosmos blockchain
+* 💳 Credit products on Celo: Credit-based yields on the Celo platform
+* ... : Additional yield sources that may be added over time
 
-* 🏢 REITs (Real Estate Investment Trusts) on Polygon: It's like owning a piece of every cool building in town, but on the blockchain!
-* ☀️ Solar on XDC: Harvesting sunshine and turning it into sweet, sweet yields. Mother Nature would be proud!
-* 📜 T-Bills on Cosmos: The classic flavor of treasury bills, now with a cosmic twist!
-* ... : A mystery flavor! Because every good buffet needs a surprise dish.
-* 💳 Credit on Celo: Credit yields that are smoother than a well-aged financial wine.
+Each of these represents a different type of yield opportunity in the blockchain space.
 
-Each of these is like a different food truck at the world's coolest financial food festival. 🚚🌭🌮
+### 🟩 The Yield Aggregation Process
 
-#### 🟩 The Green Gathering Gizmo
+In the middle of the image, we see a green bar labeled "Yield Aggregation". This represents Caddy's core aggregation technology:
 
-In the middle, we see a glowing green bar labeled "Yield Aggregation". This isn't just any old bar – it's Caddy's magical yield blender! 🧙‍♂️🔮
+* Collects yields from multiple blockchain platforms
+* Combines different yield types into a single pool
+* Optimizes the yield distribution for maximum efficiency
 
-Think of it as a super-smart conveyor belt at a sushi restaurant, but instead of delivering California rolls, it's serving up a platter of the juiciest yields from across the crypto universe!
+### 🎯 Caddy Finance Platform
 
-#### 🎯 The Caddy Catch-All
+At the bottom, the Caddy Finance logo represents the final destination for the aggregated yields:
 
-At the bottom, we see the Caddy Finance logo, looking cool as a cucumber in a bow tie. 🥒🎩
+* Receives the combined yields from various sources
+* Distributes the maxmizied yields to users
+* Manages the overall yield strategy
 
-This is where all those delicious yields end up – right in Caddy's lap (or should we say, app?). It's like Caddy is standing under a money waterfall with the biggest bucket you've ever seen! 💰🌊
+### How It Works
 
-#### How It All Works
-
-1. Different yield sources (our food trucks) are out there in the wild world of finance, each on its own blockchain block party.
-2. Caddy's yield aggregation (our green gizmo) reaches out its friendly tentacles to all these sources.
-3. It gathers all the yummy yields and funnels them down to one place.
-4. Caddy Finance (our dapper cucumber logo) then serves up this yield feast to its users on a silver platter.
-
-It's like having a financial personal shopper who visits all the best yield markets and brings back only the cream of the crop for you! 🛒🏆
-
-So there you have it, folks! Caddy's yield aggregation isn't just gathering yields; it's throwing a yield party, and everyone's invited! 🎉🥳 Are you ready to join the feast?
+1. Yield sources from different blockchains generate returns
+2. Caddy's aggregation technology collects these yields
+3. The yields are combined and maxmizied
+4. Caddy Finance distributes the aggregated yields to users
 
 <figure><img src=".gitbook/assets/Screenshot 2024-10-01 at 23.29.41.png" alt=""><figcaption></figcaption></figure>
