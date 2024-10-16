@@ -19,7 +19,9 @@ layout:
 
 # 🚀 Introduction to Caddy Finance
 
-Caddy Finance is pioneering a new approach to Real World Asset (RWA) tokenization, addressing key challenges in the current landscape and bridging the gap between traditional finance (TradFi) and decentralized finance (DeFi) 🌉.
+Caddy Finance is an AI powered RWA Yield Aggregation and maximisation protocol that bridges yields from real world assets to bootstrapped stablecoin yield pools.&#x20;
+
+These pools are maximised using AI powered DeFi strategies for higher APYs.
 
 ### 🚨 The Problem
 
