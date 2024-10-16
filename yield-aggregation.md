@@ -4,12 +4,12 @@ Caddy Finance's yield aggregation is a key feature that combines yields from var
 
 ### 🌈 Diverse Yield Sources
 
-At the top of the yield aggregation process, we see various financial instruments:
+At the top of the yield aggregation process, we see various financial instruments, let's consider an exmaple:
 
 * 🏢 REITs on Polygon: Real Estate Investment Trusts tokenized on the Polygon blockchain
 * ☀️ Solar projects on XDC: Yields from solar energy investments on the XDC network
 * 📜 T-Bills on Cosmos: Treasury Bills tokenized on the Cosmos blockchain
-* 💳 Credit products on Celo: Credit-based yields on the Celo platform
+* 💳 Credit products on Berachain: Credit-based yields on the Berachain platform
 * ... : Additional yield sources that may be added over time
 
 Each of these represents a different type of yield opportunity in the blockchain space.
@@ -20,7 +20,7 @@ In the middle of the image, we see a green bar labeled "Yield Aggregation". This
 
 * Collects yields from multiple blockchain platforms
 * Combines different yield types into a single pool
-* Optimizes the yield distribution for maximum efficiency
+* Maximise the yield distribution for maximum efficiency
 
 ### 🎯 Caddy Finance Platform
 
@@ -34,7 +34,7 @@ At the bottom, the Caddy Finance logo represents the final destination for the a
 
 1. Yield sources from different blockchains generate returns
 2. Caddy's aggregation technology collects these yields
-3. The yields are combined and maxmizied
+3. The yields are combined and maxmisied
 4. Caddy Finance distributes the aggregated yields to users
 
 <figure><img src=".gitbook/assets/Screenshot 2024-10-01 at 23.29.41.png" alt=""><figcaption></figcaption></figure>

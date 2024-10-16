@@ -2,11 +2,11 @@
 
 ### 🤔 What is Yield Maximisation?
 
-Yield maximisation is the strategy of optimizing returns on investments by:
+Yield maximisation is the strategy of maximising returns on investments by:
 
 * Increasing the overall returns on investments
 * Identifying the best opportunities for wealth growth
-* Maximizing the efficiency of asset performance
+* Maximising the efficiency of asset performance
 
 In essence, yield maximisation aims to extract the highest possible profit from investments through strategic management and allocation.
 

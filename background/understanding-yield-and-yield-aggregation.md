@@ -25,7 +25,7 @@ In decentralized finance (DeFi), yield often comes from:
 
 ### 🧙‍♂️ What is Yield Aggregation?
 
-Yield aggregation is the process of combining yields from multiple sources to optimize returns.
+Yield aggregation is the process of combining yields from multiple sources to maximize returns.
 
 #### Key Components:
 
@@ -47,7 +47,7 @@ Yield aggregation addresses several challenges in finance:
 1. Simplifies investment strategies
 2. Increases overall efficiency
 3. Enables diversification across platforms
-4. Optimizes returns through expert management
+4. Maximize returns through expert management
 5. Improves accessibility to various yield sources
 6. Often includes auto-compounding features
 7. Saves time for investors

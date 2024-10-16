@@ -24,7 +24,7 @@ Balancing Real World Asset (RWA) yields and tradeability presents unique challen
 
 #### 🤼‍♂️ The Current Landscape
 
-Many platforms currently prioritize tradeability over yield generation, leading to potential market instability. The goal is to find a balance that optimizes both aspects.
+Many platforms currently prioritize tradeability over yield generation, leading to potential market instability. The goal is to find a balance that maximise both aspects.
 
 ### 🌋 RWA Yields vs Digital Asset Yields
 

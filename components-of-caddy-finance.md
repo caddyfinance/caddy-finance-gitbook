@@ -1,6 +1,6 @@
 # 🧩 Components of Caddy Finance
 
-Caddy Finance is a comprehensive platform designed to optimize yield generation and management. Here are its key components:
+Caddy Finance is a comprehensive platform designed to maximised yield generation and management. Here are its key components:
 
 ### 1. 🎣 Yield Aggregation
 
@@ -27,7 +27,7 @@ Caddy Finance is a comprehensive platform designed to optimize yield generation 
 ### 5. 🎭 Staking to Lending Hedge
 
 * **Function**: Enables flexible allocation between staking and lending activities
-* **Benefit**: Optimizes returns by adapting to market conditions
+* **Benefit**: Maximised returns by adapting to market conditions
 
 ### 6. 🧠 Smart Contract Integration
 
@@ -43,4 +43,4 @@ These components work together to create a comprehensive financial ecosystem tha
 * Provide flexibility in investment strategies
 * Automate complex financial processes
 
-Caddy Finance leverages these components to offer a sophisticated platform for investors seeking optimized returns in both traditional and digital asset markets.
+Caddy Finance leverages these components to offer a sophisticated platform for investors seeking maximised returns in both traditional and digital asset markets.

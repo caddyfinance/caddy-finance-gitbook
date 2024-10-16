@@ -18,7 +18,7 @@ Caddy Finance employs a sophisticated yield maximization strategy. Here's how it
 
 * Aggregates collected yields into a central pool
 * Acts as the primary reservoir for yield distribution and reinvestment
-* Optimizes capital efficiency across various yield sources
+* Maximised capital efficiency across various yield sources
 
 ### 4. 🤖 AI-Driven Allocation
 

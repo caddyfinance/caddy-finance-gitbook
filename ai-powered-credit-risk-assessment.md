@@ -19,7 +19,7 @@ The AI performs complex calculations to:
 * Identify potential risks
 * Calculate probabilities for various scenarios
 
-### 3. Lending Strategy Optimization 💰
+### 3. Lending Strategy Maximisation 💰
 
 For lending, the AI:
 
