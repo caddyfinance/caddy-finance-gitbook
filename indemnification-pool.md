@@ -41,9 +41,9 @@ Caddy Finance's indemnification process is designed to provide investor protecti
 
 ### Key Benefits
 
-1. 🚀 Upside Potential: Opportunity for growth in favorable markets
-2. 🪂 Downside Protection: Risk mitigation in unfavorable conditions
+1. 🚀 Upside Potential: Opportunity for growth in favourable markets
+2. 🪂 Downside Protection: Risk mitigation in unfavourable conditions
 3. ⚖️ Balanced Approach: Combines growth potential with risk management
 4. 😌 Increased Investor Confidence: Added layer of security for investments
 
-<figure><img src=".gitbook/assets/Screenshot 2024-10-02 at 17.15.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-11-26 at 12.25.56.png" alt=""><figcaption></figcaption></figure>
