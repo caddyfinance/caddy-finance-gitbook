@@ -1,5 +1,6 @@
 ---
 icon: hexagon-vertical-nft-slanted
+hidden: true
 ---
 
 # What is tokenization?
